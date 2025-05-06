@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Main-Class: com.mycom.version.App
+Created-By: Maven Integration for Eclipse
+key: value
+mode: development
+url: http://maven.apache.org
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mycom.version.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-06T19:05:46.275Z" hostname="HP" time="0.005">
+  <properties/>
+  <testcase name="testApp" classname="com.mycom.version.AppTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
